@@ -1,0 +1,8 @@
+Creating new vectorstore
+Loading documents from source_documents
+Loading new documents:   0%|                              | 0/1 [00:00<?, ?it/s]Loading new documents: 100%|█████████████████████| 1/1 [00:00<00:00, 386.50it/s]
+Using embedded DuckDB with persistence: data will be stored in: db
+Loaded 1 new documents from source_documents
+Split into 67 chunks of text (max. 500 tokens each)
+Creating embeddings. May take some minutes...
+Ingestion complete! You can now run privateGPT.py to query your documents

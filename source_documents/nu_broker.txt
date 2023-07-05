@@ -1,0 +1,620 @@
+COLLECTIVE HEALTH PLAN CONTRACT BY AMIL MEMBERSHIP
+
+Products S80, S380, and S450 have are coparticipation contracts and 
+their segment is outpatient plus hospital plus obstetrics.
+
+The product S80 is also known as AMIL Easy. The product S380 is 
+also known as S380 R, and the product S450  is also known as S450 R.
+
+
+Product S80 has the coverage of a Group of municipalities.
+
+Product S80 has two forms of Accomodation: Ward and Apartment.
+
+The ANS Code for Ward form of product S80 is "488.701/21-8"
+
+The ANS Code for Apartment form of product S80 is 488.703/21-4.
+
+
+Product S380 has Nationwide coverage.
+
+Product S380 has two forms of Accomodation: Ward and Apartment.
+
+The ANS Code for Ward form of product S380 is "485.428/20-4" 
+
+The ANS Code for Apartment form of product S380 is "485.426/20-8"
+
+
+Product S450 has Nationwide coverage.
+
+Product S450 has two forms of Accomodation: Ward and Apartment.
+
+The ANS Code for Ward form of product S450 is "485.424/20-1" 
+
+The ANS Code for Apartment form of product S450 is "485.422/20-5"
+
+The monthly payment for users in the range of 0 to 18 years is R$ 458,65 for the Ward form of product S80
+
+The monthly payment for users in the range of 0 to 18 years is R$ 458,65 for the Apartment form of product S80
+
+The monthly payment for users in the range of 19 to 23 years is R$ 536,63 for the Ward form of product S80
+
+The monthly payment for users in the range of 19 to 23 years is R$ 536,63 for the Apartment form of product S80
+
+The monthly payment for users in the range of 24 to 28 years is R$ 654,68 for the Ward form of product S80
+
+The monthly payment for users in the range of 24 to 28 years is R$ 654,68 for the Apartment form of product S80
+
+The monthly payment for users in the range of 29 to 33 years is R$ 785,61 for the Ward form of product S80
+
+The monthly payment for users in the range of 29 to 33 years is R$ 785,61 for the Apartment form of product S80
+
+The monthly payment for users in the range of 34 to 38 years is R$ 824,89 for the Ward form of product S80
+
+The monthly payment for users in the range of 34 to 38 years is R$ 824,89 for the Apartment form of product S80
+
+The monthly payment for users in the range of 39 to 43 years is R$ 907,39 for the Ward form of product S80
+
+The monthly payment for users in the range of 39 to 43 years is R$ 907,39 for the Apartment form of product S80
+
+The monthly payment for users in the range of 44 to 48 years is R$ 1.134,23 for the Ward form of product S80
+
+The monthly payment for users in the range of 44 to 48 years is R$ 1.134,23 for the Apartment form of product S80
+
+The monthly payment for users in the range of 49 to 53 years is R$ 1.247,66 for the Ward form of product S80
+
+The monthly payment for users in the range of 49 to 53 years is R$ 1.247,66 for the Apartment form of product S80
+
+The monthly payment for users in the range of 54 to 58 years is R$ 1.559,56 for the Ward form of product S80
+
+The monthly payment for users in the range of 54 to 58 years is R$ 1.559,56 for the Apartment form of product S80
+
+The monthly payment for users in the range of 59 to more years is R$ 2.729,24 for the Ward form of product S80
+
+The monthly payment for users in the range of 59 to more years is R$ 2.729,24 for the Apartment form of product S80
+
+
+
+The monthly payment for users in the range of 0 to 18 years is R$ 570,34 for the Ward form of product S380
+
+The monthly payment for users in the range of 0 to 18 years is R$ 570,34 for the Apartment form of product S380
+
+The monthly payment for users in the range of 19 to 23 years is R$ 667,31 for the Ward form of product S380
+
+The monthly payment for users in the range of 19 to 23 years is R$ 667,31 for the Apartment form of product S380
+
+The monthly payment for users in the range of 24 to 28 years is 814,12 for the Ward form of product S380
+
+The monthly payment for users in the range of 24 to 28 years is 814,12 for the Apartment form of product S380
+
+The monthly payment for users in the range of 29 to 33 years is R$ 976,95 for the Ward form of product S380
+
+The monthly payment for users in the range of 29 to 33 years is R$ 976,95 for the Apartment form of product S380
+
+The monthly payment for users in the range of 34 to 38 years is R$ 1.025,79 for the Ward form of product S380
+
+The monthly payment for users in the range of 34 to 38 years is R$ 1.025,79 for the Apartment form of product S380
+
+The monthly payment for users in the range of 39 to 43 years is R$ 907,39 for the Ward form of product S380
+
+The monthly payment for users in the range of 39 to 43 years is R$ 907,39 for the Apartment form of product S380
+
+The monthly payment for users in the range of 44 to 48 years is R$ 1.410,46 for the Ward form of product S380
+
+The monthly payment for users in the range of 44 to 48 years is R$ 1.410,46 for the Apartment form of product S380
+
+The monthly payment for users in the range of 49 to 53 years is R$ 1.551,50 for the Ward form of product S380
+
+The monthly payment for users in the range of 49 to 53 years is R$ 1.551,50 for the Apartment form of product S380
+
+The monthly payment for users in the range of 54 to 58 years is R$ 1.939,39 for the Ward form of product S380
+
+The monthly payment for users in the range of 54 to 58 years is R$ 1.939,39 for the Apartment form of product S380
+
+The monthly payment for users in the range of 59 to more years is R$ 2.729,24 for the Ward form of product S380
+
+The monthly payment for users in the range of 59 to more years is R$ 2.729,24 for the Apartment form of product S380
+
+
+
+The monthly payment for users in the range of 0 to 18 years is R$ 623,48 for the Ward form of product S450
+
+The monthly payment for users in the range of 0 to 18 years is R$ 623,48 for the Apartment form of product S450
+
+The monthly payment for users in the range of 19 to 23 years is R$ 729,47 for the Ward form of product S450
+
+The monthly payment for users in the range of 19 to 23 years is R$ 729,47 for the Apartment form of product S450
+
+The monthly payment for users in the range of 24 to 28 years is R$ 889,96 for the Ward form of product S450
+
+The monthly payment for users in the range of 24 to 28 years is R$ 889,96 for the Apartment form of product S450
+
+The monthly payment for users in the range of 29 to 33 years is R$ 1.067,94 for the Ward form of product S450
+
+The monthly payment for users in the range of 29 to 33 years is R$ 1.067,94 for the Apartment form of product S450
+
+The monthly payment for users in the range of 34 to 38 years is R$ 1.121,34 for the Ward form of product S450
+
+The monthly payment for users in the range of 34 to 38 years is R$ 1.121,34 for the Apartment form of product S450
+
+The monthly payment for users in the range of 39 to 43 years is R$ 1.233,47 for the Ward form of product S450
+
+The monthly payment for users in the range of 39 to 43 years is R$ 1.233,47 for the Apartment form of product S450
+
+The monthly payment for users in the range of 44 to 48 years is R$ 1.541,85 for the Ward form of product S450
+
+The monthly payment for users in the range of 44 to 48 years is R$ 1.541,85 for the Apartment form of product S450
+
+The monthly payment for users in the range of 49 to 53 years is R$ 1.696,04 for the Ward form of product S450
+
+The monthly payment for users in the range of 49 to 53 years is R$ 1.696,04 for the Apartment form of product S450
+
+The monthly payment for users in the range of 54 to 58 years is R$ 2.120,03 for the Ward form of product S450
+
+The monthly payment for users in the range of 54 to 58 years is R$ 2.120,03 for the Apartment form of product S450
+
+The monthly payment for users in the range of 59 to more years is R$ 3.710,06 for the Ward form of product S450
+
+The monthly payment for users in the range of 59 to more years is R$ 3.710,06 for the Apartment form of product S450
+
+
+
+
+Product AMIL Reference has contracts without coparticipation and 
+its segment is outpatient plus hospital plus obstetrics.
+
+Product AMIL Reference has a Nationwide coverage, and only the Ward form. Its ANS Code is 
+485.420/20-9
+
+
+
+The monthly payment for users in the range of 0 to 18 years is R$ 904,68 for the Ward form of product AMIL Reference
+
+The monthly payment for users in the range of 19 to 23 years is R$ 1.058,47 for the Ward form of product AMIL Reference
+
+The monthly payment for users in the range of 24 to 28 years is R$ 1.291,33 for the Ward form of product AMIL Reference
+
+The monthly payment for users in the range of 29 to 33 years is R$ 1.549,60 for the Ward form of product AMIL Reference
+
+The monthly payment for users in the range of 34 to 38 years is R$ 1.627,08 for the Ward form of product AMIL Reference
+
+The monthly payment for users in the range of 39 to 43 years is R$ 1.789,80 for the Ward form of product AMIL Reference
+
+The monthly payment for users in the range of 44 to 48 years is R$ 2.237,24 for the Ward form of product AMIL Reference
+
+The monthly payment for users in the range of 49 to 53 years is R$ 2.460,97 for the Ward form of product AMIL Reference
+
+The monthly payment for users in the range of 54 to 58 years is R$ 3.076,21 for the Ward form of product AMIL Reference
+
+The monthly payment for users in the range of 59 to more years is R$ 5.383,37 for the Ward form of product AMIL Reference
+
+
+
+
+Below is a list of coparticipation in percentage or fixed value for the 
+AMIL S80 product for several groups of procedures. All of the 
+coparticipation items have a limit.
+
+
+The coparticipation percentage for "Elective and clinical consultations" in produt AMIL Easy is of 30% up to a maximum of R$ 25,00
+
+The coparticipation percentage for "Hospital consultations (ER)" in produt AMIL Easy is of 30% up to a maximum of R$ 50,00
+
+The coparticipation percentage for "Basic medical examination" in produt AMIL Easy is of 30% up to a maximum of R$ 20,00
+
+The coparticipation percentage for "Special medical examinations" in produt AMIL Easy is of 30% up to a maximum of R$ 100,00
+
+The coparticipation percentage for "Physiotherapy" in produt AMIL Easy is of 30% up to a maximum of R$ 15,00
+
+The coparticipation percentage for "Speech therapy" in produt AMIL Easy is of 30% up to a maximum of R$ 15,00
+
+The coparticipation for "Hospitalization - charge per event" in product AMIL Easy is of R$ 180,00
+
+The coparticipation percentage for "Nutrition" in produt AMIL Easy is of 30% up to a maximum of R$ 15,00
+
+The coparticipation percentage for "Basic procedures" in produt AMIL Easy is of 30% up to a maximum of R$ 35,00
+
+The coparticipation percentage for "Special procedures" in produt AMIL Easy is of 30% up to a maximum of R$ 140,00
+
+The coparticipation percentage for "Psychotherapy" in produt AMIL Easy is of 30% up to a maximum of R$ 15,00
+
+The coparticipation percentage for "Dialysis or hemodialysis" in product AMIL Easy is of 0%
+
+The coparticipation percentage for "Chemotherapy" in product AMIL Easy is of 0%
+
+The coparticipation percentage for "Radiotherapy" in product AMIL Easy is of 0%
+
+
+
+
+Below is a list of coparticipation in percentage or fixed value for the  
+products 'AMIS S380 R' and 'AMIS S450 R' for several groups of 
+procedures. All of the coparticipation items have a limit.
+
+
+The coparticipation percentage for "Elective and clinical consultations" in produt AMIL S380 R is of 30% up to a maximum of R$ 30,00
+
+The coparticipation percentage for "Hospital consultations (ER)" in produt AMIL S380 R is of 30% up to a maximum of R$ 60,00
+
+The coparticipation percentage for "Basic medical examination" in produt AMIL S380 R is of 30% up to a maximum of R$ 25,00
+
+The coparticipation percentage for "Special medical examinations" in produt AMIL S380 R is of 30% up to a maximum of R$ 110,00
+
+The coparticipation percentage for "Physiotherapy" in produt AMIL S380 R is of 30% up to a maximum of R$ 20,00
+
+The coparticipation percentage for "Speech therapy" in produt AMIL S380 R is of 30% up to a maximum of R$ 20,00
+
+The coparticipation for "Hospitalization - charge per event" in product AMIL S380 R is of R$ 200,00
+
+The coparticipation percentage for "Nutrition" in produt AMIL S380 R is of 30% up to a maximum of R$ 20,00
+
+The coparticipation percentage for "Basic procedures" in produt AMIL S380 R is of 30% up to a maximum of R$ 40,00
+
+The coparticipation percentage for "Special procedures" in produt AMIL S380 R is of 30% up to a maximum of R$ 150,00
+
+The coparticipation percentage for "Psychotherapy" in produt AMIL S380 R is of 30% up to a maximum of R$ 20,00
+
+The coparticipation percentage for "Dialysis or hemodialysis" in product AMIL S380 R is of 0%
+
+The coparticipation percentage for "Chemotherapy" in product AMIL S380 R is of 0%
+
+The coparticipation percentage for "Radiotherapy" in product AMIL S380 R is of 0%
+
+
+
+The coparticipation percentage for "Elective and clinical consultations" in produt AMIL S450 R is of 30% up to a maximum of R$ 30,00
+
+The coparticipation percentage for "Hospital consultations (ER)" in produt AMIL S450 R is of 30% up to a maximum of R$ 60,00
+
+The coparticipation percentage for "Basic medical examination" in produt AMIL S450 R is of 30% up to a maximum of R$ 25,00
+
+The coparticipation percentage for "Special medical examinations" in produt AMIL S450 R is of 30% up to a maximum of R$ 110,00
+
+The coparticipation percentage for "Physiotherapy" in produt AMIL S450 R is of 30% up to a maximum of R$ 20,00
+
+The coparticipation percentage for "Speech therapy" in produt AMIL S450 R is of 30% up to a maximum of R$ 20,00
+
+The coparticipation for "Hospitalization - charge per event" in product AMIL S450 R is of R$ 220,00
+
+The coparticipation percentage for "Nutrition" in produt AMIL S450 R is of 30% up to a maximum of R$ 20,00
+
+The coparticipation percentage for "Basic procedures" in produt AMIL S450 R is of 30% up to a maximum of R$ 40,00
+
+The coparticipation percentage for "Special procedures" in produt AMIL S450 R is of 30% up to a maximum of R$ 150,00
+
+The coparticipation percentage for "Psychotherapy" in produt AMIL S450 R is of 30% up to a maximum of R$ 20,00
+
+The coparticipation percentage for "Dialysis or hemodialysis" in product AMIL S450 R is of 0%
+
+The coparticipation percentage for "Chemotherapy" in product AMIL S450 R is of 0%
+
+The coparticipation percentage for "Radiotherapy" in product AMIL S450 R is of 0%
+
+
+
+
+WHO CAN JOIN ?
+
+ASPROLI - ASSOCIATION OF LIBERAL PROFESSIONALS
+Administrator, lawyer, agronomists, Systems Analyst, architect, 
+Social worker, Actuary, biologist, Biomedical, Media, accountant, 
+Realtor, Insurance Broker (SUSEP), Dentist, 
+Designers (graphic, fashion, interior), dispatchers, economist, 
+engineer, statistician, pharmacist, philosophy, physicists, 
+speech therapist, 
+
+Graduates in hospitality, Graduates in Computer Science, 
+
+Graduates in foreign trade, gastronomy, Geography, Geology,
+Business Management, Financial Management, History, Journalist, 
+Language Studies, Marketing, 
+Mathematicians, Medicine, Nutritionist, Pedagogy, Teacher, 
+Physical Education Teacher, Psychologist, 
+Publicists (advertising and Propaganda), Radiology, Human Resources, 
+Public Relations, Sociology, Technical Administration, 
+Technical Surveying, Technical Clinical analysis, 
+Technician in Industrial Automation, Technician in Buildings, 
+Technician in Electronics, Technician in Electrotechnics, 
+Mechanical Technician, Environmental Technician, Metrology Technician, 
+Nutrition and Dietetics Technician, Dental Technician, 
+Computer Network Technician, Telecommunications Technician, 
+Textile Technician, Technology of Information (TI) Technician, 
+Theologian and Veterinarian.
+
+Eligibility: copy of the diploma or copy of the certificate of 
+completion of the course in higher education or copy of the portfolio 
+of the Regional Council, or work book or payslips + entity card or 
+original member statement issued by ASPROLI.
+
+Fee: R$ 5.00 per month.
+
+
+FENAMP-FED. NATIONAL OF THE SERVANTS OF THE STATE PUBLIC MINISTRIES
+
+Employees of the prosecutor's office.
+Eligibility: document proving the relationship of the beneficiary with 
+one of the unions that make up FENAMP and, also, a document proving 
+the affiliation of the aforementioned Union to FENAMP.
+
+No Fee.
+
+
+FADESP-NATIONAL FEDERATION OF LAWYERS, INTERNS AND BACHELORS
+
+All lawyers and interns duly enrolled in the OAB (Brazilian Bar 
+Association).
+
+Eligibility: copy of OAB portfolio or proof of registration as a lawyer 
+or trainee at OAB + statement of FADESP membership duly signed and 
+dated or copy of the membership card.
+
+Fee: R$ 7.00 per month.
+
+SINDNAÇÕES - NATIONAL UNION OF WORKERS IN EMBASSIES, CONSULATES, 
+ORGANIZATIONS AND EMPLOYEES WORKING FOR A FOREIGN STATE OR FOR MEMBERS 
+OF THE FOREIGN DIPLOMATIC CORPS IN BRAZIL.
+
+Workers in embassies, consulates, international organizations and 
+employees working for a foreign state or for members of the diplomatic 
+corps in Brazil.
+
+Eligibility: copy of the paycheck proving belonging to the professional 
+category represented + copy of the associate card or associate 
+statement issued by the SYNDNATIONS entity duly dated and signed.
+
+No Fee.
+
+
+SINDSERJUN - UNION OF SERVANTS OF JUNDIAÍ
+
+All public servants of Jundiaí.
+
+Eligibility: payslip (last 60 days) or professional card and copy of 
+SINDSERJUN member card or copy of proof of membership or original 
+statement of membership issued by the entity.
+
+No Fee.
+
+UNISEM SP-UNION OF MUNICIPAL PUBLIC SERVANTS OF SÃO PAULO
+
+Municipal employees and public servants, active in the municipalities 
+of São Paulo, and duly affiliated to UNISEM-SP.
+
+Eligibility: functional registration / payslip + associative file of 
+UNISEM SP duly signed and dated.
+
+Fee: R$ 5.00 per month.
+
+
+AFTRANSCAR - FLUMINENSE ASSOCIATION OF CARGO TRANSPORTERS
+
+Autonomous Transporters of the state of Rio de Janeiro.
+
+Eligibility: category C driver's license + National Register of road 
+hauliers + member declaration + AFTRANSCAR membership form.
+
+Fee: R$ 5.00 per month.
+
+
+
+
+
+REQUIRED DOCUMENTATION
+
+Incumbent
+- Affix membership proposal;
+- Copy RG and CPF;
+- Copy of the National Health Card;
+- Copy of current proof of residence (last 90 days);
+- Proof of eligibility + associative form.
+
+Dependents
+
+Spouse
+- Copy of marriage certificate + copy RG and CPF;
+- Copy of the National Health Card.
+
+Companion
+- Proven declaration of stable union by means of a public declaration of stable Union (carried out in a notary's Office of
+titles and documents);
+- Copy of the RG and CPF;
+- Copy of the National Health Card.
+
+Unmarried child, provided that he or she is up to Thirty-Nine (39) years of age
+- Copy of Birth Certificate + RG and CPF mandatory for beneficiaries aged from 14 years;
+- Copy of the National Health Card.
+
+Invalid child of any age and declared in the Incumbent's Income Tax
+- Copy of Birth Certificate + RG and CPF mandatory for beneficiaries aged from 14 years;
+- Copy of the National Health Card;
+- Certified copy of the Disability Certificate issued by the INSS;
+- Copy of the holder's Income Tax Return.
+
+Minor under the custody or guardianship of the titular beneficiary
+- Copy of Birth Certificate + RG and CPF mandatory for beneficiaries aged from 14 years;
+- Copy of the National Health Card;
+- Copy of the guardianship or "term of custody" issued by an official body;
+
+OBS.: If the adoption is extinguished, the operator has the right to exclude the dependent.
+
+Stepchild, provided he or she is up to Thirty-Nine (39) years of age
+
+Married Incumbent
+- Copy of Birth Certificate + RG and CPF mandatory for beneficiaries aged from 14 years;
+- Copy of the National Health Card;
+- Copy of marriage certificate.
+
+Incumbent companion
+- Copy of Birth Certificate + RG and CPF mandatory for beneficiaries aged from 14 years;
+- Copy of the National Health Card;
+- Proven declaration of stable union by means of a public declaration of stable Union (carried out in a notary's Office of
+titles and documents).
+
+ATTENTION: ALL TENDERERS AND/OR THEIR DEPENDENT(S) MUST PRESENT A COPY OF THE
+NATIONAL HEALTH CARD (CNS).
+
+The Benefits Administrator / contractor may at any time request other documents not listed here.
+specified in order to substantiate the information provided in the proposal.
+
+
+
+IMPORTANT INFORMATION
+
+- Prices and accredited medical network are subject to change by the 
+operator.
+
+- Proposal subject to technical analysis.
+
+- This material contains summary information prevailing the conditions 
+of the membership agreement.
+
+- Internal use Material intended exclusively for consultants.
+
+- Contains technical language and summary information, subject to 
+change by force of Law and regulations Regulatory requirements of the 
+ANS, as well as the contractual rules established with the operator.
+
+- Month of annual readjustment: July 2024.
+
+- The request for transfer of the plan can always be made in the month 
+of July, according to the movement schedule, with the prior 
+authorization of the operator. The change of plan will only occur when
+requested by the titular beneficiary and will result in the transfer of 
+all its dependent beneficiaries. For new beneficiaries, the transfer to 
+plans with a higher network category and accommodation will result in 
+the 180 (one hundred and eighty) days of grace to be fulfilled.
+
+- The sale will be considered administrative for insured persons from 
+59 years.
+
+- Raising fee: Affix does not interfere with the amount of the raising 
+fee agreed between the broker and the beneficiary, this fee can be 
+freely negotiated, provided that: the amount is lower and different from 
+the monthly fee, as well as that this fee is not to be confused with 
+the monthly fee and the start of the plan. Properly orient your
+beneficiary.
+
+
+
+COVERAGE AREA
+
+S80 - Group of Municipalities:
+
+Federal District-Brasilia.
+
+GOIÁS - Águas Lindas de Goiás, Cidade Occidental, Formosa, Luziânia, 
+Planaltina, Santo Antônio do Descoberto and Valparaíso de Goiás.
+
+PARANÁ - Almirante Tamandaré, Araucária, Campina Grande do Sul, 
+Campo Largo, Campo Magro, Colombo, Curitiba, Fazenda Rio Grande, 
+Matinhos, Paranaguá, Pinhais, Piraquara, Quatro Barras and São José 
+dos Pinhais.
+
+PERNAMBUCO - Abreu and Lima, Cabo De Santo Agostinho, Camaragibe, 
+Igarassu, Ipojuca, Jaboatão dos Guararapes, Olinda, Paulista, Recife 
+and São Lourenço Da Mata.
+
+RIO de JANEIRO - Belford Roxo, Duque de Caxias, Magé, Mesquita, 
+Nilópolis, Niterói, Nova Iguaçu, Queimados, Rio de Janeiro, São Gonçalo 
+and São João do Meriti.
+
+SÃO PAULO - Americana, Arujá, Atibaia, Barueri, Bertioga, Bragança 
+Paulista, Cabreúva, Caieiras, Cajamar, Campinas, Campo Limpo Paulista,
+Carapicuíba, Cosmópolis, Cotia, Cubatão, Diadema, Embu das Artes, 
+Ferraz de Vasconcelos, Francisco Morato, Franco da Rocha, Guararema, 
+Guarujá, Guarulhos, Hortolândia, Indaiatuba, Itanhaém, Itapecerica da 
+Serra, Itapevi, Itaquaquecetuba, Itatiba, Itu, Itupeva, Jaguariúna, 
+Jandira, Jarinu, Jundiaí, Louveira, Mairiporã, Mauá, Mogi das Cruzes, 
+Mongaguá, Nova Odessa, Osasco, Paulínia, Peruíbe, Poá, Praia Grande, 
+Ribeirão Pires, Ribeirão Preto, Salto, Santa Bárbara d'oeste, Santa 
+Isabel, Santana de Parnaíba, Santo André, Santos, São Bernardo do 
+Campo, São Caetano do Sul, São Paulo, São Vicente, Sorocaba, Sumaré, 
+Suzano, Taboão da Serra, Valinhos, Vargem Grande Paulista, Várzea 
+Paulista, Vinhedo and Votorantim.
+
+
+
+Duration
+
+Contracts started in Day 01 have Expiration Date every day 01.
+
+Contracts started in Day 10 have Expiration Date every day 10.
+
+Contracts started in Day 20 have Expiration Date every day 20.
+
+
+
+TABLE OF GRACE PERIOD REDUCTION 
+
+PRC 501-valid for customers of any category, with proof of residence 
+time from 6 (six) to 12 (twelve) months in a previous plan of a similar 
+operator*;
+
+PRC 503-valid for customers of any category, with proof of stay of more 
+than 12 (twelve) months, in a previous plan of a similar operator*.
+
+*The list of similar operators and their respective updates are 
+available for consultation on the website amil.com.br, in the area 
+"Information supplementary to our contracts”.  This relationship is 
+subject to change, regardless of prior communication by Amil.
+
+Under no circumstances will there be a reduction in the period of 
+temporary partial coverage (CPT) imputed as a result of pre-existing 
+diseases and injuries declared at the time of contracting, the 
+provisions of the general conditions of the contract remaining 
+unchanged.
+
+
+The grace period for "Emergency room consultation" is 24 hours if under the Contractual Grace Period clause, or 24 hours if under the PRC 501 clause.
+
+The grace period for "Elective consultations in offices, clinics or medical centers" is 30 days if under the Contractual Grace Period clause, or 1 day if under the PRC 501 clause.
+
+The grace period for "Basic outpatient examinations and therapeutic procedures" is 30 days if under the Contractual Grace Period clause, or 1 day if under the PRC 501 clause.
+
+The grace period for "Examinations and special procedures performed on an outpatient	basis, related in the contractual clause, not provided for in other cases" is 180 days if under the Contractual Grace Period clause, or 30 days if under the PRC 501 clause.
+
+The grace period for "Digestive, respiratory and urological endoscopy" is 180 days if under the Contractual Grace Period clause, or 30 days if under the PRC 501 clause.
+
+The grace period for "Ultrasound" is 180 days if under the Contractual Grace Period clause, or 30 days if under the PRC 501 clause.
+
+The grace period for "TC, RNM, neuroradiology, cardiography, myelography, interventional radiology" is 180 days if under the Contractual Grace Period clause, or 60 days if under the PRC 501 clause.
+
+The grace period for "Hemodynamic examinations, cardiovascular examinations indiagnostic nuclear medicine and immunoscintigraphy" is 180 days if under the Contractual Grace Period clause, or 60 days if under the PRC 501 clause.
+
+The grace period for "Digestive, respiratory and urological endoscopic therapeutic procedures" is 180 days if under the Contractual Grace Period clause, or 30 days if under the PRC 501 clause.
+
+The grace period for "Therapeutic hemodynamics and angioplasties (not related to pre-existing diseases)" is 180 days if under the Contractual Grace Period clause, or 120 days if under the PRC 501 clause.
+
+The grace period for "Chemotherapy and radiotherapy (not related to pre-existing diseases)" is 180 days if under the Contractual Grace Period clause, or 150 days if under the PRC 501 clause.
+
+The grace period for "Procedures for lithotripsy" is 180 days if under the Contractual Grace Period clause, or 60 days if under the PRC 501 clause.
+
+The grace period for "Videolaparoscopy and video-assisted procedures for outpatient therapeutic-diagnostic purposes" is 180 days if under the Contractual Grace Period clause, or 90 days if under the PRC 501 clause.
+
+The grace period for "Procedures for arthroscopy" is 180 days if under the Contractual Grace Period clause, or 60 days if under the PRC 501 clause.
+
+The grace period for "Dialysis or hemodialysis (not related to pre-existingdiseases)" is 180 days if under the Contractual Grace Period clause, or 120 days if under the PRC 501 clause.
+
+The grace period for "Hemotherapy" is 180 days if under the Contractual Grace Period clause, or 30 days if under the PRC 501 clause.
+
+The grace period for "Hospitalizations in general (not related to pre-existing diseases)" is 180 days if under the Contractual Grace Period clause, or 30 days if under the PRC 501 clause.
+
+The grace period for "Hospitalizations for obstetrics and neonatology" is 300 days if under the Contractual Grace Period clause, or 300 days if under the PRC 501 clause, or  if under the PRC 503 clause.
+
+The grace period for "Day hospital surgeries (not related to pre-existing diseases)" is 180 days if under the Contractual Grace Period clause, or 60 days if under the PRC 501 clause.
+
+
+
+
+MANDATORY DOCUMENTATION
+
+1. Attach last 2 tickets duly paid (the last one being less than 60 
+days ago) and copy of the identification card and/or declaration of time 
+of stay of the previous operator (updated and original);
+
+2. Proof of previous plans in the “outpatient”, “Post-Payment” or 
+“operating cost” modality will not be accepted;
+
+3. The plan option with superior accommodation (apartment) will have a 
+grace period of 180 (one hundred and eighty) days to use the benefit, 
+starting from term of the contract.
