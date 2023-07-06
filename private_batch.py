@@ -161,10 +161,12 @@ def main():
         print("\n> " + document.metadata["source"] + ":")
         print(document.page_content)
 
-def parse_arguments():
+
+def parse_arguments() -> argparse.Namespace:
     desc = 'privateGPT: Ask questions to your documents without an ' + \
         'internet connection, using the power of LLMs.'
     parser = argparse.ArgumentParser(description=desc)
+    
     help_str = 'Use this flag to disable printing of source documents ' +\
         'used for answers.'
     parser.add_argument("--hide-source", "-S", action='store_true',
@@ -175,12 +177,28 @@ def parse_arguments():
     parser.add_argument("--mute-stream", "-M",
                         action='store_true',
                         help=help_str)
+    
+    help_str = 'Use this flag to enable the verbose tracing.'
+    parser.add_argument("--verbose", "-v", action='store_true',
+                        help=help_str)
 
     help_str = 'Text to query'    
     parser.add_argument('-q', '--query', type=str, 
-                        required=True, help=help_str)
+                        required=False, help=help_str)
 
-    return parser.parse_args()
+    help_str = 'Questions file'    
+    parser.add_argument('-f', '--questions_file', type=str, 
+                        required=False, help=help_str)
+    
+    result = parser.parse_args()
+
+    if (result.query is not None) and (result.questions_file is not None):
+        print('ERROR Can\'t chose both --query and --questions_file')
+        
+        # Return to indicate failure
+        return None
+    
+    return result
 
 
 if __name__ == "__main__":
