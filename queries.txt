@@ -1,0 +1,8 @@
+S450
+What's the monthly payment for product S450 ?
+What's the monthly payment for product S450, for users in the range of 0 to 18 years ?
+What's the monthly payment for users in the range of 0 to 18 years ?
+What are the monthly payments for users in the range of 0 to 18 years for product S80 ?
+What are the monthly payments for product S80 for users with age of 0 to 18 years ?
+What are the products for users with age of 0 to 18 years ?
+What are the products available ?

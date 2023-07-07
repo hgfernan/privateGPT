@@ -11,7 +11,8 @@ Created on Tue Jul  4 20:43:18 2023
 """
 
 import os       # class _Environ
-import time     # time()
+import sys      # exit()
+# import time     # time()
 import types    # class SimpleNamespace
 import argparse # class ArgumentParser
 import datetime # class datetime
@@ -57,8 +58,6 @@ def time_at_length(dt : datetime.timedelta) -> str:
 
 
 def setup(params : types.SimpleNamespace()) -> RetrievalQA:
-    result : RetrievalQA() = None
-    
     load_dotenv()
     
     embeddings_model_name = os.environ.get("EMBEDDINGS_MODEL_NAME")
@@ -70,17 +69,26 @@ def setup(params : types.SimpleNamespace()) -> RetrievalQA:
     model_n_batch = int(os.environ.get('MODEL_N_BATCH',8))
     target_source_chunks = int(os.environ.get('TARGET_SOURCE_CHUNKS',4))
 
-    # # Parse the command line arguments
-    # args = parse_cli()
-    # print(args)
+    print('*** Will HuggingFaceEmbeddings ***') 
     
     embeddings = HuggingFaceEmbeddings(model_name=embeddings_model_name)
+
+    print('*** Done HuggingFaceEmbeddings ***') 
+    
     db = Chroma(persist_directory=persist_directory, 
                 embedding_function=embeddings, 
                 client_settings=CHROMA_SETTINGS)
+
+    print('*** Opened db ***') 
+    
     retriever = db.as_retriever(search_kwargs={"k": target_source_chunks})
+
+    print('*** Retrieved db ***') 
+    
     # activate/deactivate the streaming StdOut callback for LLMs
     callbacks = [] if params.mute_stream else [StreamingStdOutCallbackHandler()]
+
+    print('*** Preparing the LLM ***') 
     
     # Prepare the LLM
     match model_type:
@@ -102,48 +110,22 @@ def setup(params : types.SimpleNamespace()) -> RetrievalQA:
             msg = f"Model type {model_type} is not supported. " +\
                 "Please choose one of the following: LlamaCpp, GPT4All"
             raise Exception(msg)
+
+    print('*** Will retrieve ***') 
         
-    result = RetrievalQA.from_chain_type(llm=llm, 
-                                     chain_type="stuff", 
-                                     retriever=retriever, 
-                                     return_source_documents= not params.hide_source)
-    
+    result : RetrievalQA = \
+        RetrievalQA.from_chain_type(llm=llm,
+                                    chain_type="stuff",
+                                    retriever=retriever,
+                                    return_source_documents= not params.hide_source)
+
+    print('*** Before leaving setup() ***') 
     
     # Normal function termination
     return result
 
 
-def main() -> int:
-    # Parse the command line arguments
-    args = parse_cli()
-    print(args)
-    
-    if field_count(args) == 0:
-        print('*** The program will be terminated. ***')
-        
-        # Return to indicate failure
-        return 1
-    
-    params = interp_args(args)    
-    if field_count(params) == 0:
-        print('*** The program will be terminated. ***')
-        
-        # Return to indicate failure
-        return 2
-
-    dt_start = datetime.datetime.now()
-    s_dt_start = dt_start.strftime('%Y-%m-%d %H:%M:%S')
-    print(f'{s_dt_start} Started setup')
-    qa = setup(params)
-    dt_end = datetime.datetime.now()
-    s_dt_end = dt_end.strftime('%Y-%m-%d %H:%M:%S')
-    s_delta = time_at_length(dt_end - dt_start)
-    print(f"\n> {s_dt_end} Finished setup (took {s_delta}):")
-    
-    # Question and answer
-
-    query = params.single_query
-    
+def process_query(qa : RetrievalQA, query : str, hide_source : bool):
     # Print the query
     dt_start = datetime.datetime.now()
     s_dt_start = dt_start.strftime('%Y-%m-%d %H:%M:%S')
@@ -152,12 +134,14 @@ def main() -> int:
     
     # Get the answer from the chain
     res = qa(query)
-    answer, docs = res['result'], [] if args.hide_source else res['source_documents']
+    answer, docs = res['result'], [] if hide_source else res['source_documents']
 
     # Print the result
     dt_end = datetime.datetime.now()
     s_dt_end = dt_end.strftime('%Y-%m-%d %H:%M:%S')
-    s_delta = time_at_length(dt_end - dt_start)
+    delta = dt_end - dt_start
+    print(delta)
+    s_delta = time_at_length(delta)
     print(f"\n> {s_dt_end} Answer (took {s_delta}):")
     print(answer)
 
@@ -165,10 +149,10 @@ def main() -> int:
     for document in docs:
         print("\n> " + document.metadata["source"] + ":")
         print(document.page_content)
-        
+    
     # Normal function termination
-    return 0
-
+    return
+    
 
 def parse_cli() -> argparse.Namespace:
     desc = 'privateGPT: Ask questions to your documents without an ' + \
@@ -247,5 +231,57 @@ def interp_args( args : argparse.Namespace) -> types.SimpleNamespace:
     # Normal function termination
     return result
 
+
+def main() -> int:
+    # Parse the command line arguments
+    args = parse_cli()
+    print(args)
+    
+    if field_count(args) == 0:
+        print('*** The program will be terminated. ***')
+        
+        # Return to indicate failure
+        return 1
+    
+    params = interp_args(args)    
+    if field_count(params) == 0:
+        print('*** The program will be terminated. ***')
+        
+        # Return to indicate failure
+        return 2
+
+    print(params)
+    
+    dt_start = datetime.datetime.now()
+    s_dt_start = dt_start.strftime('%Y-%m-%d %H:%M:%S')
+    print(f'{s_dt_start} Started setup')
+    qa = setup(params)
+    dt_end = datetime.datetime.now()
+    s_dt_end = dt_end.strftime('%Y-%m-%d %H:%M:%S')
+    delta = dt_end - dt_start
+    print(f'delta {delta}')
+    s_delta = time_at_length(dt_end - dt_start)
+    print(f"\n> {s_dt_end} Finished setup (took {s_delta}):")
+    
+    # Question and answer
+
+    try:
+        if params.single_query is not None:
+            process_query(qa, params.single_query, params.hide_source)
+    
+        else:
+            for query in params.queries:
+                process_query(qa, query, params.hide_source)
+        
+    except Exception as exc:
+        print('\n*** The program will be terminated ***')
+        print(f'\t{type(exc).__name__} : {str(exc)}')
+        
+        # Return to indicate error
+        return 3
+        
+    # Normal function termination
+    return 0
+
 if __name__ == "__main__":
-    main()
+    sys.exit(main())
