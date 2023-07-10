@@ -30,28 +30,37 @@ from constants import CHROMA_SETTINGS
 def field_count(obj : object) ->dict:
     return len(obj.__dict__)
 
-def time_at_length(dt : datetime.timedelta) -> str:
+def time_at_length(td : datetime.timedelta) -> str:
     result : str = ''
-    secs   : int = dt.seconds 
+    secs   : int = td.seconds
     
+    if td.days > 0: 
+        result += str(td.days) +' day'
+        
+        if td.days > 1: 
+            result += 's'
+        
+        result += ' '
+        
     hours : int = secs // 3600
     if hours != 0:
         result += str(hours) + ' h '
         
     secs = secs % 3600
     minutes : int = secs // 60
+    # print(f'minutes {minutes}')
     if minutes != 0: 
         result += str(minutes) + ' min '
         
     seconds : int = secs % 60
-    micro   : int = int(round(dt.microseconds / 10000, 0))
+    micro   : int = int(round(td.microseconds / 10000, 0))
     
-    result = str(seconds)
+    sec_frac = seconds + (micro / 100.0)
         
-    if micro != 0:
-        result += '.' + str(micro)
-    
-    result += ' s'
+    if sec_frac != 0:
+        result += f'{sec_frac:.2f}' + ' s'
+        
+    result = result.strip()
     
     # Normal function termination
     return result
