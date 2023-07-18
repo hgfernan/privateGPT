@@ -1,0 +1,89 @@
+Namespace(hide_source=False, mute_stream=False, verbose=True, single_query='What are the forms of Accommodation of product S80', queries_name=None)
+namespace(hide_source=False, mute_stream=False, verbose=True, single_query='What are the forms of Accommodation of product S80', queries_name=None)
+2023-07-17 18:43:56 Started setup
+*** Will HuggingFaceEmbeddings ***
+*** Done HuggingFaceEmbeddings ***
+Using embedded DuckDB with persistence: data will be stored in: db
+*** Opened db ***
+*** Retrieved db ***
+*** Preparing the LLM ***
+Found model file at  models/ggml-gpt4all-j-v1.3-groovy.bin
+gptj_model_load: loading model from 'models/ggml-gpt4all-j-v1.3-groovy.bin' - please wait ...
+gptj_model_load: n_vocab = 50400
+gptj_model_load: n_ctx   = 2048
+gptj_model_load: n_embd  = 4096
+gptj_model_load: n_head  = 16
+gptj_model_load: n_layer = 28
+gptj_model_load: n_rot   = 64
+gptj_model_load: f16     = 2
+gptj_model_load: ggml ctx size = 5401.45 MB
+gptj_model_load: kv self size  =  896.00 MB
+gptj_model_load: ................................... done
+gptj_model_load: model size =  3609.38 MB / num tensors = 285
+*** Will retrieve ***
+*** Before leaving setup() ***
+delta 0:00:14.888269
+
+> 2023-07-17 18:44:11 Finished setup (took 14.89 s):
+
+
+> 2023-07-17 18:44:11 Question: 
+What are the forms of Accommodation of product S80
+ The ANS Code provided does not mention specific information on different products or their names/forms as it only provides a list and brief description.
+ The ANS Code provided does not mention specific information on different products or their names/forms as it only provides a list and brief description.0:21:12.170098
+
+> 2023-07-17 19:05:24 Answer (took 21 min 12.17 s):
+ The ANS Code provided does not mention specific information on different products or their names/forms as it only provides a list and brief description.
+
+> 0 Inter 5 source_documents/nu_broker.txt:
+The ANS Code for Ward form of product S80 is "488.701/21-8"
+
+The ANS Code for Apartment form of product S80 is 488.703/21-4.
+
+
+Product S380 has Nationwide coverage.
+
+Product S380 has two forms of Accomodation: Ward and Apartment.
+
+The ANS Code for Ward form of product S380 is "485.428/20-4" 
+
+The ANS Code for Apartment form of product S380 is "485.426/20-8"
+
+
+Product S450 has Nationwide coverage.
+
+Product S450 has two forms of Accomodation: Ward and Apartment.
+
+> 1 Inter 6 source_documents/nu_broker.txt:
+COLLECTIVE HEALTH PLAN CONTRACT BY AMIL MEMBERSHIP
+
+The products S80, S380, and S450 have are coparticipation contracts and 
+their segment is outpatient plus hospital plus obstetrics.
+
+The product S80 is also known as AMIL Easy. The product S380 is 
+also known as S380 R, and the product S450  is also known as S450 R.
+
+
+Product S80 has the coverage of a Group of municipalities.
+
+Product S80 has two forms of Accomodation: Ward and Apartment.
+
+> 2 Inter 4 source_documents/nu_broker.txt:
+The monthly payment for users in the range of 29 to 33 years is R$ 785,61 for the Apartment form of product S80
+
+The monthly payment for users in the range of 34 to 38 years is R$ 824,89 for the Ward form of product S80
+
+The monthly payment for users in the range of 34 to 38 years is R$ 824,89 for the Apartment form of product S80
+
+The monthly payment for users in the range of 39 to 43 years is R$ 907,39 for the Ward form of product S80
+
+> 3 Inter 4 source_documents/nu_broker.txt:
+The monthly payment for users in the range of 39 to 43 years is R$ 907,39 for the Apartment form of product S80
+
+The monthly payment for users in the range of 44 to 48 years is R$ 1.134,23 for the Ward form of product S80
+
+The monthly payment for users in the range of 44 to 48 years is R$ 1.134,23 for the Apartment form of product S80
+
+The monthly payment for users in the range of 49 to 53 years is R$ 1.247,66 for the Ward form of product S80
+
+Best answer 1, with inter 6

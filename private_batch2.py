@@ -26,7 +26,6 @@ from langchain.llms import GPT4All, LlamaCpp
 
 from constants import CHROMA_SETTINGS
 
-from word_set import gen_word_set, distance_ws
 
 def field_count(obj : object) -> int:
     return len(obj.__dict__)
@@ -137,25 +136,6 @@ def setup(params : types.SimpleNamespace()) -> RetrievalQA:
 
 
 def process_query(qa : RetrievalQA, query : str, hide_source : bool):
-    """
-    Process a query using `langchain.chains`
-
-    Parameters
-    ----------
-    qa : RetrievalQA
-        A `langchain` chain.
-    query : str
-        The question to be used.
-    hide_source : bool
-        Should the source be hidden ?
-
-    Returns
-    -------
-    None.
-
-    """
-    ws_q = gen_word_set(query)
-
     # Print the query
     dt_start = datetime.datetime.now()
     s_dt_start = dt_start.strftime('%Y-%m-%d %H:%M:%S')
@@ -176,27 +156,9 @@ def process_query(qa : RetrievalQA, query : str, hide_source : bool):
     print(answer)
 
     # Print the relevant sources used for the answer
-    best_inter : int = -1
-    inter_len : int = -1
-    best_ind : int = -1
-    ind : int = -1
-    
     for document in docs:
-        ind += 1
-        
-        ws_answer = gen_word_set(document.page_content)
-        inter_len = distance_ws(ws_q, ws_answer)
-        
-        if inter_len > best_inter: 
-            best_inter = inter_len
-            best_ind = ind
-        
-        msg = f'\n> {ind} Inter {inter_len} ' +\
-            document.metadata["source"] + ":"
-        print(msg)
+        print("\n> " + document.metadata["source"] + ":")
         print(document.page_content)
-    
-    print(f'\nBest answer {best_ind}, with inter {best_inter}')
     
     # Normal function termination
     return
